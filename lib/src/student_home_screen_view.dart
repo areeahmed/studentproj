@@ -1,4 +1,3 @@
-import 'dart:ui';
 import 'package:studentproj/src/detail_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:studentproj/mock/mock.dart';
